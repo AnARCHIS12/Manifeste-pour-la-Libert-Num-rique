@@ -3,6 +3,8 @@ backend:
   branch: main
   repo: AnARCHIS12/Manifeste-pour-la-Libert-Num-rique
 
+site_url: https://manifeste-pour-la-libert-num-rique.netlify.app
+
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
 
